@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoviesSelector</string>
+    <string name="tittle">Peliculas emocionantes</string>
+    <string name="amor">Ambientada en la fiebre del oro de California, cuenta la historia de Angel, una mujer que ha sufrido mucho y encuentra redención y amor verdadero a través de la fe y el apoyo de un hombre llamado Michael.</string>
+    <string name="toy">Una película de animación que narra las aventuras de un grupo de juguetes que cobran vida cuando los humanos no están presentes. El vaquero Woody y el astronauta Buzz Lightyear deben superar sus diferencias para salvar a su dueño, Andy</string>
+    <string name="scary">Una comedia de parodia que satiriza las películas de terror populares. Sigue a un grupo de adolescentes que se ven acosados por un asesino enmascarado mientras la película se burla de clichés y escenas icónicas de películas de terror.</string>
+    <string name="felicidad">Basada en una historia real, sigue a Chris Gardner, un hombre que enfrenta la pobreza y la falta de hogar mientras lucha por criar a su hijo y alcanzar su sueño de convertirse en un exitoso corredor de bolsa.</string>
+    <string name="rubias">Una comedia en la que dos agentes del FBI se disfrazan de mujeres ricas y rubias para resolver un caso de secuestro, lo que lleva a una serie de situaciones hilarantes y malentendidos.</string>
+    <string name="avengers">Una película de superhéroes donde un grupo de héroes con habilidades extraordinarias, incluidos Iron Man, Thor, Capitán América, y Hulk, se unen para combatir la amenaza del villano Loki y salvar al mundo de la destrucción.</string>
+
+
+</resources>
