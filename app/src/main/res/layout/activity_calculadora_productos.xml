@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CalculadoraProductos">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titlePro"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textSize="20sp"/>
+
+    <RadioGroup
+        android:id="@+id/rgList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <RadioButton
+            android:id="@+id/rbTv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tv"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"/>
+
+        <RadioButton
+            android:id="@+id/rbPc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pc"
+            android:textSize="20sp"/>
+
+        <RadioButton
+            android:id="@+id/rbLav"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/lavad"
+            android:textSize="20sp"/>
+
+    </RadioGroup>
+
+
+
+    <CheckBox
+        android:id="@+id/chDescuento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/descuento"
+        android:textSize="20sp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/resultDesc"
+        android:layout_width="358dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/calcularBtn"
+        android:layout_width="335dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="@string/calc"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/resultFinal"
+        android:layout_width="352dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+
+
+
+</LinearLayout>

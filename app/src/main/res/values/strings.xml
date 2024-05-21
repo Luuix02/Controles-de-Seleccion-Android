@@ -7,6 +7,12 @@
     <string name="felicidad">Basada en una historia real, sigue a Chris Gardner, un hombre que enfrenta la pobreza y la falta de hogar mientras lucha por criar a su hijo y alcanzar su sueño de convertirse en un exitoso corredor de bolsa.</string>
     <string name="rubias">Una comedia en la que dos agentes del FBI se disfrazan de mujeres ricas y rubias para resolver un caso de secuestro, lo que lleva a una serie de situaciones hilarantes y malentendidos.</string>
     <string name="avengers">Una película de superhéroes donde un grupo de héroes con habilidades extraordinarias, incluidos Iron Man, Thor, Capitán América, y Hulk, se unen para combatir la amenaza del villano Loki y salvar al mundo de la destrucción.</string>
+    <string name="titlePro">VENTA DE PRODUCTOS</string>
+    <string name="tv">Televisor</string>
+    <string name="pc">Laptop</string>
+    <string name="lavad">Lavadora</string>
+    <string name="descuento">Descuento 10%</string>
+    <string name="calc">Calcula</string>
 
 
 </resources>
